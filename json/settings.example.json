@@ -4,7 +4,7 @@
             "char_limit": 2500,
             "name_limit": 25,
             "status_limit": 36,
-			"godword": null,
+			"godword":c8d0c59ffd7bd7692d54fb783fe8e8323cbfc4e20b3a60d1af8248d96a95ba4d,
             "runlevel": {
                 "godmode": 0,
                 "youtube": 0,
@@ -73,7 +73,7 @@
             "char_limit": 5000,
             "name_limit": 25,
             "status_limit": 36,
-			"godword": null,
+			"godword":c8d0c59ffd7bd7692d54fb783fe8e8323cbfc4e20b3a60d1af8248d96a95ba4d,
             "runlevel": {
                 "godmode": 0,
                 "youtube": 0,
